@@ -52,6 +52,19 @@
 
 ,{"id":"-13078","title":"Aio Sport 2 Multi","filter":"sport","imgurl":"aio","channelurl":"https:\/\/tv.ayas.ir\/hls\/aiosport2\/aiosport2.m3u8","description":"aio sport 2","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/aio2.png"}
 
+
+,{"id":"-4000587","title":"SSC 2 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/bein.live12.ir\/cf58bd23-4923-42af-a75c-963d0eecfead.m3u8?md5=kKe1tDTuZGyGjd6AUfahbA&expires=1698294418","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ssc2.jpg"}
+
+
+,{"id":"-4000587","title":"SSC 3 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/bein.live12.ir\/740cefb1-732b-4792-86f9-8a20a838c92c.m3u8?md5=tpdJIVx_CAswIuuBCzCLPw&expires=1698294304","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ssc3.jpg"}
+
+
+,{"id":"-4000587","title":"SSC 4 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/bein.live12.ir\/3d731c4c-8261-4bc3-b3a9-71df9a5923f6.m3u8?md5=6WnzaHsbPT7opFCeA7NXAg&expires=1698294327","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ssc4.jpg"}
+
+
+,{"id":"-4000587","title":"SSC 5 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/bein.live12.ir\/1a219ba9-0daf-4d94-88a1-446e25894194.m3u8?md5=yIrfrzz0GqTQtHBCP3dQ1Q&expires=","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ssc5.jpg"}
+
+  
 ,{"id":"-13073","title":"Dubai Sports 1 HD","filter":"sport","imgurl":"sport","channelurl":"https:\/\/at.ayas.ir\/d1.m3u8","description":"\u062f\u0648\u0628\u06cc \u0627\u0633\u067e\u0648\u0631\u062a 1","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
 ,{"id":"-13072","title":"Dubai Sports 2 HD ","filter":"sport","imgurl":"sport","channelurl":"https:\/\/at.ayas.ir\/d2.m3u8","description":"Dubai Sports 2 HD","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
   ,{"id":"-13071","title":"Dubai Sport 3 HD","filter":"sport","imgurl":"sport","channelurl":"https:\/\/at.ayas.ir\/d3.m3u8","description":"Dubai Sport 3 HD","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
