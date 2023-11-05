@@ -66,6 +66,11 @@
 
 ,{"id":"-4000587","title":"SSC 5 ","filter":"sport","imgurl":"bein","channelurl":"http:\/\/176.119.29.7:8082\/1a219ba9-0daf-4d94-88a1-446e25894194.m3u8?md5=yIrfrzz0GqTQtHBCP3dQ1Q&expires=","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ssc5.jpg"}
 
+
+,{"id":"-4000587","title":"SSC Extra 1 ","filter":"sport","imgurl":"bein","channelurl":"http:\/\/176.119.29.7:8082\/21ce5d51-76e2-499a-8e23-9d82365aaf2f.m3u8?md5=29b9JMC1vl1aqjEwl64KIw&expires=1698296534","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ssc.png"}
+  ,{"id":"-4000587","title":"SSC Extra 2  ","filter":"sport","imgurl":"bein","channelurl":"http:\/\/176.119.29.7:8082\/eac8b5ec-5835-4ad6-abcc-1bb68d11c4b7.m3u8?md5=1Mt5XrPUe5qQ57Bz1IOuFw&expires=1698296567","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ssc.png"}
+  
+  ,{"id":"-4000587","title":"SSC Extra 3  ","filter":"sport","imgurl":"bein","channelurl":"http:\/\/176.119.29.7:8082\/597c1f89-b71c-426f-85c3-74a38f379b1b.m3u8?md5=zm8NsK8M-lGV9eXgtkMXrA&expires=1698296589","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ssc.png"}
   
 ,{"id":"-13073","title":"Dubai Sports 1 HD","filter":"sport","imgurl":"sport","channelurl":"https:\/\/at.ayas.ir\/d1.m3u8","description":"\u062f\u0648\u0628\u06cc \u0627\u0633\u067e\u0648\u0631\u062a 1","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
 ,{"id":"-13072","title":"Dubai Sports 2 HD ","filter":"sport","imgurl":"sport","channelurl":"https:\/\/at.ayas.ir\/d2.m3u8","description":"Dubai Sports 2 HD","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
