@@ -22,9 +22,6 @@
 ,{"id":"11","title":"Varzesh TV Multi ","filter":"tv","imgurl":"varzesh","channelurl":"https:\/\/tv.ayas.ir\/hls\/varzesh\/varzesh.m3u8","description":"\u0634\u0628\u06a9\u0647 2 \u0648\u0631\u0632\u0634\u06cc","type":"m3u8","isOnline":"1","urlImage":""}
 
 
-,{"id":"-4000567","title":"EUROSPORT 1 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/stream.live12.ir\/hls2\/eurosport1.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/euro1.png"}
-
-,{"id":"-4000567","title":"EUROSPORT 2 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/stream.live12.ir\/hls2\/eurosport2.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/euro2.png"}
 
 ,{"id":"-4000567","title":"Bein sport 1 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/stream.live12.ir\/hls2\/bein1.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein1.png"}
 
