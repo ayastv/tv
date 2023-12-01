@@ -13,9 +13,6 @@
 
 ,{"id":"-13083","title":"Persiana sport \u0646\u06cc\u0645 \u0628\u0647\u0627\u0621","filter":"sport","imgurl":"sport","channelurl":"https://at.ayas.ir\/hls2\/persiana.m3u8","description":"persiana sport","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/persianasport.jpg"}
 
-,{"id":"-13099","title":"Aio Sport \u0646\u06cc\u0645 \u0628\u0647\u0627\u0621","filter":"sport","imgurl":"aio","channelurl":"https://at.ayas.ir\/hls2\/aiosport.m3u8","description":"aio sport","type":"m3u8","isOnline":"1","urlImage":""}
-,{"id":"-13074","title":"Aio Sport Multi ","filter":"sport","imgurl":"aio","channelurl":"https:\/\/tv.ayas.ir\/hls\/aiosport\/aiosport.m3u8","description":"\u064eAio sport","type":"m3u8","isOnline":"1","urlImage":""}
-
 
 ,{"id":"-4000587","title":"SSC 1 \u0639\u0631\u0628\u0633\u062a\u0627\u0646","filter":"sport","imgurl":"bein","channelurl":"https://at.ayas.ir\/hls2\/ssc1.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ssc1.jpg"}
 
@@ -39,6 +36,9 @@
   ,{"id":"-4000567","title":"Bein sport 1 en ","filter":"sport","imgurl":"bein","channelurl":"https://at.ayas.ir\/hls2\/bein1en.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein1en.png"}
 
 ,{"id":"-4000567","title":"Bein sport 2 en ","filter":"sport","imgurl":"bein","channelurl":"https://at.ayas.ir\/hls2\/bein2en.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein2en.png"}
+
+,{"id":"-13099","title":"Aio Sport \u0646\u06cc\u0645 \u0628\u0647\u0627\u0621","filter":"sport","imgurl":"aio","channelurl":"https://at.ayas.ir\/hls2\/aiosport.m3u8","description":"aio sport","type":"m3u8","isOnline":"1","urlImage":""}
+,{"id":"-13074","title":"Aio Sport Multi ","filter":"sport","imgurl":"aio","channelurl":"https:\/\/tv.ayas.ir\/hls\/aiosport\/aiosport.m3u8","description":"\u064eAio sport","type":"m3u8","isOnline":"1","urlImage":""}
 
 ,{"id":"-13096","title":"Aio Sport 2 \u0646\u06cc\u0645 \u0628\u0647\u0627\u0621","filter":"sport","imgurl":"aio","channelurl":"https://at.ayas.ir\/hls2\/aiosport2.m3u8","description":"aio sport 2","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/aio2.png"}
 
