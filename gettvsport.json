@@ -1,6 +1,5 @@
 
 [{"id":"-16001","title":"\u062d\u0645\u0627\u06cc\u062a \u0645\u0627\u0644\u06cc Donate \u0627\u0644\u062f\u0639\u0645 \u0627\u0644\u0645\u0627\u0644\u06cc","filter":"sport","imgurl":"idpay","channelurl":"https:\/\/t.me\/+zkhdbsAeVRIyMmI8","description":"","type":"outurl","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/idpay.png"}
-  
 
 ,{"id":"-6000100","title":"\u0634\u0628\u06a9\u0647 3 \u0646\u06cc\u0645 \u0628\u0647\u0627\u0621","filter":"sport","imgurl":"tv3","channelurl":"https:\/\/stream.ayas.ir\/hls2\/tv3.m3u8","description":"Tv3 IRIB s2","type":"m3u8","isOnline":"1","urlImage":""}
 
@@ -31,14 +30,10 @@
 
 ,{"id":"-6000080","title":"Bein sport 6 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/stream.ayas.ir\/hls2\/ayas6.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein6.png"}
 
-
-
-
   
-,{"id":"-6000069","title":"Aio Sport \u0646\u06cc\u0645 \u0628\u0647\u0627\u0621","filter":"sport","imgurl":"aio","channelurl":"https:\/\/stream.ayas.ir\/hls2\/aiosport.m3u8","description":"aio sport","type":"m3u8","isOnline":"1","urlImage":""}
+
 ,{"id":"-6000068","title":"Aio Sport Multi ","filter":"sport","imgurl":"aio","channelurl":"https:\/\/tv.ayas.ir\/hls\/aiosport\/aiosport.m3u8","description":"\u064eAio sport","type":"m3u8","isOnline":"1","urlImage":""}
 
-,{"id":"-6000067","title":"Aio Sport 2 \u0646\u06cc\u0645 \u0628\u0647\u0627\u0621","filter":"sport","imgurl":"aio","channelurl":"https:\/\/stream.ayas.ir\/hls2\/aiosport2.m3u8","description":"aio sport 2","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/aio2.png"}
 
 ,{"id":"-6000066","title":"Aio Sport 2 Multi","filter":"sport","imgurl":"aio","channelurl":"https:\/\/tv.ayas.ir\/hls\/aiosport2\/aiosport2.m3u8","description":"aio sport 2","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/aio2.png"}
   
@@ -46,7 +41,6 @@
 ,{"id":"-6000058","title":"Dubai Sports 2 HD ","filter":"sport","imgurl":"sport","channelurl":"https:\/\/at.live12.ir\/d2.m3u8","description":"Dubai Sports 2 HD","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
   ,{"id":"-6000057","title":"Dubai Sport 3 HD","filter":"sport","imgurl":"sport","channelurl":"https:\/\/at.live12.ir\/d3.m3u8","description":"Dubai Sport 3 HD","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
 
-,{"id":"-6000039","title":"Tennis channels","filter":"sport","imgurl":"ayas","channelurl":"https:\/\/247b.mrgamingstreams.com\/mrgamingtennis.m3u8","description":"Tennis channel","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/tennis.png"}
 
 
 ,{"id":"-6000056","title":"Lenz Sport Stadium Multi ","filter":"sport","imgurl":"lenz","channelurl":"http:\/\/92.42.49.203\/wh7f454c46tw2739134558_1001334405\/PLTV\/88888888\/224\/3221226913\/index.m3u8?tenantId=9804","description":"\u0627\u0633\u062a\u0627\u062f\u06cc\u0648\u0645 \u0644\u0646\u0632","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/lenz.png"}
@@ -56,47 +50,25 @@
 ,{"id":"-6000055","title":"Lenz Sport Plus Multi","filter":"sport","imgurl":"lenz","channelurl":"http:\/\/92.42.49.108:80\/wh7f454c46tw427076266_1100830981\/PLTV\/88888888\/224\/3221226614\/index.m3u8?tenantId=9801","description":"\u0644\u0646\u0632 \u0627\u0633\u067e\u0648\u0631\u062a \u067e\u0644\u0627\u0633","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/lenz.png"}
 
 
-,{"id":"-6000054","title":"AbuDhabi Sport1","filter":"sport","imgurl":"sport","channelurl":"https:\/\/admdn1.cdn.mangomolo.com\/adsports1\/smil:adsports1.stream.smil\/playlist.m3u8","description":"AbuDhabi_Sport1_200","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/adsport1.png"}
-
-
-,{"id":"-6000053","title":"AbuDhabi Sport2","filter":"sport","imgurl":"sport","channelurl":"https:\/\/admdn5.cdn.mangomolo.com\/adsports2\/smil:adsports2.stream.smil\/playlist.m3u8","description":"AbuDhabi_Sport2_200","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/adsport2.png"}
-
-,{"id":"-6000052","title":"KSA Sports 1","filter":"sport","imgurl":"sport","channelurl":"https:\/\/edge.taghtia.com\/sa\/9.m3u8","description":"KSA Sports ","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ksa1.png"}
-
-,{"id":"-6000051","title":"KSA Sports 2","filter":"sport","imgurl":"sport","channelurl":"https:\/\/edge.taghtia.com\/sa\/10.m3u8","description":"KSA Sports ","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ksa2.png"}
-
-,{"id":"-6000050","title":"KSA Sports 3","filter":"sport","imgurl":"sport","channelurl":"https:\/\/edge.taghtia.com\/sa\/16.m3u8","description":"KSA Sports ","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ksa3.png"}
-
-,{"id":"-6000049","title":"KSA Sports 4","filter":"sport","imgurl":"sport","channelurl":"https:\/\/edge.taghtia.com\/sa\/17.m3u8","description":"KSA Sports ","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ksa4.png"}
-
-
-,{"id":"-6000048","title":"China sport 1","filter":"sport","imgurl":"sport","channelurl":"http:\/\/185.188.188.235\/live\/sport1\/playlist.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/chinasport.jpg"}
-
-
-,{"id":"-6000047","title":"China sport 2","filter":"sport","imgurl":"sport","channelurl":"http:\/\/185.188.188.235\/live\/sport2\/playlist.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/chinasport.jpg"}
-
 ,{"id":"-6000046","title":"\u0634\u0628\u06a9\u0647 \u0648\u0631\u0632\u0634\u06cc \u062a\u0644\u0648\u0628\u06cc\u0648\u0646","filter":"sport","imgurl":"sport","channelurl":"https:\/\/tv1.ayas.ir\/twsport\/live\/playlist.m3u8","description":"\u0641\u0642\u0637 \u062f\u0631 \u0627\u067e","type":"m3u8","isOnline":"1","urlImage":"https:\/\/king2net.com\/wp-content\/uploads\/telewebion-icon.png"}
 
 
 
 
 ,{"id":"-6000045","title":"Bahrain Sport 2 " ,"filter":"sport","imgurl":"bahrain","channelurl":"https:\/\/5c7b683162943.streamlock.net\/live\/ngrp:bahrainsportstwo_all\/playlist.m3u8","description":"bahrain sport 2","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bahrainsport.png"}
-,{"id":"-6000044","title":"RTA Sport  " ,"filter":"sport","imgurl":"rta","channelurl":"https:\/\/hls.rtasport.live\/hls\/stream.m3u8","description":"RTA sport ","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/rta.jpg"}
 
 
 
 ,{"id":"-6000043","title":"Persiana sport  vpn ","filter":"sport","imgurl":"sport","channelurl":"http:\/\/51.254.225.27\/hls\/stream.m3u8","description":"persiana sport","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/persianasport.jpg"}
 
-,{"id":"-6000042","title":"EuroSport   vpn","filter":"sport","imgurl":"sport","channelurl":"https:\/\/cdn-apse1-prod.tsv2.amagi.tv\/linear\/amg01448-samsungin-eurosporthdin-samsungin\/playlist.m3u8","description":"Euro Sport","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/euro1.png"}
 
-,{"id":"-6000041","title":"Idmantv  ","filter":"sport","imgurl":"ayas","channelurl":"http:\/\/109.205.166.68\/server124\/idman_az\/index.m3u8","description":"IdMan TV","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/idmantv.png"}
 ,{"id":"-6000039","title":"Tennis channels","filter":"sport","imgurl":"ayas","channelurl":"https:\/\/tennischannel-int-samsunguk.amagi.tv\/playlist.m3u8","description":"Tennis channel","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/tennis.png"}
 ,{"id":"-6000038","title":"\u0634\u0627\u0631\u062c\u0647 \u0627\u0633\u067e\u0648\u0631\u062a","filter":"sport","imgurl":"ayas","channelurl":"https:\/\/svs.itworkscdn.net\/smc4sportslive\/smc4.smil\/smc4tv_chunks.m3u8","description":"\u0634\u0627\u0631\u062c\u0647 \u0627\u0633\u067e\u0648\u0631\u062a","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/sharjeh.jpg"}
 ,{"id":"-6000037","title":"\u06a9\u0634\u062a\u06cc \u06a9\u062c","filter":"sport","imgurl":"sport","channelurl":"https:\/\/d2p372oxiwmcn1.cloudfront.net\/hls\/360p\/playlist.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/kaj.png"}
 ,{"id":"-6000036","title":"\u0631\u0627\u062f\u06cc\u0648 \u0648\u0631\u0632\u0634 \u0628\u0627\u0646\u0648\u0627\u0646","filter":"sport","imgurl":"sport","channelurl":"http:\/\/s0.cdn1.iranseda.ir:1935\/liveedge\/radio-banovan\/playlist.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"http:\/\/public.iranseda.ir\/cdn\/img\/logo-networks\/radio-banovan.png"}
-,{"id":"-6000035","title":"turkmenistan sport","filter":"sport","imgurl":"sport","channelurl":"http:\/\/217.174.225.146\/hls\/ch004_720\/index.m3u8","description":"turkmenistan sport","type":"m3u8","isOnline":"1","urlImage":"https:\/\/upload.wikimedia.org\/wikipedia\/fa\/a\/af\/TurkmenistanSport.png"},{"id":"-6682","title":"Qaz Sport","filter":"sport","imgurl":"sport","channelurl":"http:\/\/92.46.127.146:8080\/qazsport\/index.m3u8","description":"Qaz Sport","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/Qazsport_Logo.png"},{"id":"-6172","title":"Ufc Sport","filter":"sport","imgurl":"sport","channelurl":"https:\/\/live-k2302-kbp.1plus1.video\/sport\/smil:sport.smil\/chunklist_b6000000.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ufc.png"}
+,{"id":"-6000035","title":"turkmenistan sport","filter":"sport","imgurl":"sport","channelurl":"http:\/\/217.174.225.146\/hls\/ch004_720\/index.m3u8","description":"turkmenistan sport","type":"m3u8","isOnline":"1","urlImage":"https:\/\/upload.wikimedia.org\/wikipedia\/fa\/a\/af\/TurkmenistanSport.png"}
 ,{"id":"-6000034","title":"\u0634\u0628\u06a9\u0647 \u0648\u0631\u0632\u0634\u06cc \u062c\u0627\u0645","filter":"sport","imgurl":"sport","channelurl":"https:\/\/tv1.ayas.ir\/jam\/live\/576p\/index.m3u8","description":"Jam tv","type":"m3u8","isOnline":"1","urlImage":""}
-,{"id":"-6000033","title":"\u0634\u0628\u06a9\u0647 \u0648\u0631\u0632\u0634 \u0633\u0631\u0648\u0631 \u06f3","filter":"sport","imgurl":"varzesh","channelurl":"http:\/\/92.42.50.29\/PLTV\/88888888\/224\/3221226665\/index.m3u8","description":"\u0634\u0628\u06a9\u0647 \u0648\u0631\u0632\u0634 \u0622\u06cc\u0648","type":"m3u8","isOnline":"1","urlImage":""},{"id":"-1988","title":"\u0631\u0627\u062f\u06cc\u0648 \u0648\u0631\u0632\u0634","filter":"sport","imgurl":"ayas","channelurl":"https:\/\/tv1.ayas.ir\/radiovarzesh\/live\/playlist.m3u8","description":"radiovarzesh","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/radiovarzesh.png"},{"id":"-1800","title":"Aparat Sport","filter":"sport","imgurl":"aparat","channelurl":"https:\/\/www.aparat.com\/embed\/live\/AparatSport","description":"\u0622\u067e\u0627\u0631\u0627\u062a \u0627\u0633\u067e\u0648\u0631\u062a","type":"outurl","isOnline":"1","urlImage":""},{"id":"-1799","title":"Aparat Sport 1","filter":"sport","imgurl":"aparat","channelurl":"https:\/\/www.aparat.com\/embed\/live\/AparatSport1","description":"\u0622\u067e\u0627\u0631\u0627\u062a \u0627\u0633\u067e\u0648\u0631\u062a 1","type":"outurl","isOnline":"1","urlImage":""},{"id":"-1798","title":"Aparat Sport 2","filter":"sport","imgurl":"aparat","channelurl":"https:\/\/www.aparat.com\/embed\/live\/AparatSport2","description":"\u0622\u067e\u0627\u0631\u0627\u062a \u0627\u0633\u067e\u0648\u0631\u062a 2","type":"outurl","isOnline":"1","urlImage":""},{"id":"-1797","title":"Aparat Sport 3","filter":"sport","imgurl":"aparat","channelurl":"https:\/\/www.aparat.com\/embed\/live\/AparatSport3","description":"\u0622\u067e\u0627\u0631\u0627\u062a \u0627\u0633\u067e\u0648\u0631\u062a 3","type":"outurl","isOnline":"1","urlImage":""},{"id":"-1796","title":"Aparat Sport Plus","filter":"sport","imgurl":"aparat","channelurl":"https:\/\/www.aparat.com\/embed\/live\/AparatSportPlus","description":"\u0622\u067e\u0627\u0631\u0627\u062a \u0627\u0633\u067e\u0648\u0631\u062a \u067e\u0644\u0627\u0633","type":"outurl","isOnline":"1","urlImage":""},{"id":"-1795","title":"Aparat Sport 4","filter":"sport","imgurl":"aparat","channelurl":"https:\/\/www.aparat.com\/embed\/live\/AparatSport4","description":"\u0622\u067e\u0627\u0631\u0627\u062a \u0627\u0633\u067e\u0648\u0631\u062a 4","type":"outurl","isOnline":"1","urlImage":""}
+,{"id":"-1988","title":"\u0631\u0627\u062f\u06cc\u0648 \u0648\u0631\u0632\u0634","filter":"sport","imgurl":"ayas","channelurl":"https:\/\/tv1.ayas.ir\/radiovarzesh\/live\/playlist.m3u8","description":"radiovarzesh","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/radiovarzesh.png"},{"id":"-1800","title":"Aparat Sport","filter":"sport","imgurl":"aparat","channelurl":"https:\/\/www.aparat.com\/embed\/live\/AparatSport","description":"\u0622\u067e\u0627\u0631\u0627\u062a \u0627\u0633\u067e\u0648\u0631\u062a","type":"outurl","isOnline":"1","urlImage":""},{"id":"-1799","title":"Aparat Sport 1","filter":"sport","imgurl":"aparat","channelurl":"https:\/\/www.aparat.com\/embed\/live\/AparatSport1","description":"\u0622\u067e\u0627\u0631\u0627\u062a \u0627\u0633\u067e\u0648\u0631\u062a 1","type":"outurl","isOnline":"1","urlImage":""},{"id":"-1798","title":"Aparat Sport 2","filter":"sport","imgurl":"aparat","channelurl":"https:\/\/www.aparat.com\/embed\/live\/AparatSport2","description":"\u0622\u067e\u0627\u0631\u0627\u062a \u0627\u0633\u067e\u0648\u0631\u062a 2","type":"outurl","isOnline":"1","urlImage":""},{"id":"-1797","title":"Aparat Sport 3","filter":"sport","imgurl":"aparat","channelurl":"https:\/\/www.aparat.com\/embed\/live\/AparatSport3","description":"\u0622\u067e\u0627\u0631\u0627\u062a \u0627\u0633\u067e\u0648\u0631\u062a 3","type":"outurl","isOnline":"1","urlImage":""},{"id":"-1796","title":"Aparat Sport Plus","filter":"sport","imgurl":"aparat","channelurl":"https:\/\/www.aparat.com\/embed\/live\/AparatSportPlus","description":"\u0622\u067e\u0627\u0631\u0627\u062a \u0627\u0633\u067e\u0648\u0631\u062a \u067e\u0644\u0627\u0633","type":"outurl","isOnline":"1","urlImage":""},{"id":"-1795","title":"Aparat Sport 4","filter":"sport","imgurl":"aparat","channelurl":"https:\/\/www.aparat.com\/embed\/live\/AparatSport4","description":"\u0622\u067e\u0627\u0631\u0627\u062a \u0627\u0633\u067e\u0648\u0631\u062a 4","type":"outurl","isOnline":"1","urlImage":""}
 ,{"id":"-6000032","title":"PREMIER SPORTS 1 UK","filter":"sport","imgurl":"sport","channelurl":"http:\/\/allm4f1x.russtv.net\/iptv\/XVGY7MPHN39K6P\/6555\/index.m3u8","description":"PREMIER SPORTS UK","type":"m3u8","isOnline":"1","urlImage":""}
 ,{"id":"-6000031","title":"EUROSPORT 2 HD UK","filter":"sport","imgurl":"sport","channelurl":"http:\/\/allm4f1x.russtv.net\/iptv\/XVGY7MPHN39K6P\/6556\/index.m3u8","description":"PREMIER SPORTS UK","type":"m3u8","isOnline":"1","urlImage":""}
 
