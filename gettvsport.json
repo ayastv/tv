@@ -37,17 +37,17 @@
 
 ,{"id":"-6000066","title":"Aio Sport 2 Multi","filter":"sport","imgurl":"aio","channelurl":"https:\/\/tv.ayas.ir\/hls\/aiosport2\/aiosport2.m3u8","description":"aio sport 2","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/aio2.png"}
   
-,{"id":"-6000059","title":"Dubai Sports 1 HD","filter":"sport","imgurl":"sport","channelurl":"https:\/\/at.live12.ir\/d1.m3u8","description":"\u062f\u0648\u0628\u06cc \u0627\u0633\u067e\u0648\u0631\u062a 1","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
-,{"id":"-6000058","title":"Dubai Sports 2 HD ","filter":"sport","imgurl":"sport","channelurl":"https:\/\/at.live12.ir\/d2.m3u8","description":"Dubai Sports 2 HD","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
-  ,{"id":"-6000057","title":"Dubai Sport 3 HD","filter":"sport","imgurl":"sport","channelurl":"https:\/\/at.live12.ir\/d3.m3u8","description":"Dubai Sport 3 HD","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
+,{"id":"-6000059","title":"Dubai Sports 1 HD","filter":"sport","imgurl":"sport","channelurl":"https:\/\/cdn.ayas.ir\/d1.m3u8","description":"\u062f\u0648\u0628\u06cc \u0627\u0633\u067e\u0648\u0631\u062a 1","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
+,{"id":"-6000058","title":"Dubai Sports 2 HD ","filter":"sport","imgurl":"sport","channelurl":"https:\/\/cdn.ayas.ir\/d2.m3u8","description":"Dubai Sports 2 HD","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
+  ,{"id":"-6000057","title":"Dubai Sport 3 HD","filter":"sport","imgurl":"sport","channelurl":"https:\/\/cdn.ayas.ir\/d3.m3u8","description":"Dubai Sport 3 HD","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/dubaisport.png"}
 
 
 
-,{"id":"-6000056","title":"Lenz Sport Stadium Multi ","filter":"sport","imgurl":"lenz","channelurl":"http:\/\/92.42.49.203\/wh7f454c46tw2739134558_1001334405\/PLTV\/88888888\/224\/3221226913\/index.m3u8?tenantId=9804","description":"\u0627\u0633\u062a\u0627\u062f\u06cc\u0648\u0645 \u0644\u0646\u0632","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/lenz.png"}
+,{"id":"-6000056","title":"Lenz Sport Stadium Multi ","filter":"sport","imgurl":"lenz","channelurl":"https:\/\/lenz.ayassport.ir\/wh7f454c46tw2739134558_1001334405\/PLTV\/88888888\/224\/3221226913\/index.m3u8?tenantId=9804","description":"\u0627\u0633\u062a\u0627\u062f\u06cc\u0648\u0645 \u0644\u0646\u0632","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/lenz.png"}
 
 
 
-,{"id":"-6000055","title":"Lenz Sport Plus Multi","filter":"sport","imgurl":"lenz","channelurl":"http:\/\/92.42.49.108:80\/wh7f454c46tw427076266_1100830981\/PLTV\/88888888\/224\/3221226614\/index.m3u8?tenantId=9801","description":"\u0644\u0646\u0632 \u0627\u0633\u067e\u0648\u0631\u062a \u067e\u0644\u0627\u0633","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/lenz.png"}
+,{"id":"-6000055","title":"Lenz Sport Plus Multi","filter":"sport","imgurl":"lenz","channelurl":"https:\/\/lenz.ayassport.ir\/wh7f454c46tw427076266_1100830981\/PLTV\/88888888\/224\/3221226614\/index.m3u8?tenantId=9801","description":"\u0644\u0646\u0632 \u0627\u0633\u067e\u0648\u0631\u062a \u067e\u0644\u0627\u0633","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/lenz.png"}
 
 
 ,{"id":"-6000046","title":"\u0634\u0628\u06a9\u0647 \u0648\u0631\u0632\u0634\u06cc \u062a\u0644\u0648\u0628\u06cc\u0648\u0646","filter":"sport","imgurl":"sport","channelurl":"https:\/\/tv1.ayas.ir\/twsport\/live\/playlist.m3u8","description":"\u0641\u0642\u0637 \u062f\u0631 \u0627\u067e","type":"m3u8","isOnline":"1","urlImage":"https:\/\/king2net.com\/wp-content\/uploads\/telewebion-icon.png"}
