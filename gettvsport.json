@@ -7,10 +7,10 @@
 ,{"id":"-6000099","title":"tv3 Telewebion","filter":"tv","imgurl":"tv3","channelurl":"https:\/\/cdn.telewebion.com\/tv3\/live\/playlist.m3u8","description":"\u0634\u0628\u06a9\u0647 3 \u0635\u062f\u0627 \u0648 \u0633\u06cc\u0645\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646","type":"m3u8","isOnline":"1","urlImage":""}
 ,{"id":"-6000098","title":"tv3 Aio","filter":"tv","imgurl":"tv3","channelurl":"https:\/\/live.aionet.ir\/hls\/tv3\/tv3.m3u8","description":"\u0634\u0628\u06a9\u0647 2 \u0648\u0631\u0632\u0634\u06cc","type":"m3u8","isOnline":"1","urlImage":""}
 
-,{"id":"-6000095","title":"Persiana sport \u0646\u06cc\u0645 \u0628\u0647\u0627\u0621","filter":"sport","imgurl":"sport","channelurl":"https:\/\/cdn.live12.ir\/hls2\/persianas.m3u8","description":"persiana sport","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/persianasport.jpg"}
+,{"id":"-6000095","title":"Persiana sport \u0646\u06cc\u0645 \u0628\u0647\u0627\u0621","filter":"sport","imgurl":"sport","channelurl":"https:\/\/stream.live12.ir\/hls2\/persianas.m3u8","description":"persiana sport","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/persianasport.jpg"}
 
 
-,{"id":"-6000093","title":"SSC 1 \u0639\u0631\u0628\u0633\u062a\u0627\u0646","filter":"sport","imgurl":"bein","channelurl":"https:\/\/cdn.live12.ir\/hls2\/ssc1s.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ssc1.jpg"}
+,{"id":"-6000093","title":"SSC 1 \u0639\u0631\u0628\u0633\u062a\u0627\u0646","filter":"sport","imgurl":"bein","channelurl":"https:\/\/stream.live12.ir\/hls2\/ssc1s.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/ssc1.jpg"}
 
 
   
@@ -22,17 +22,17 @@
 ,{"id":"-6000089","title":"Varzesh TV  Aio ","filter":"tv","imgurl":"varzesh","channelurl":"https:\/\/live.aionet.ir\/hls\/varzesh\/varzesh.m3u8","description":"\u0634\u0628\u06a9\u0647 2 \u0648\u0631\u0632\u0634\u06cc","type":"m3u8","isOnline":"1","urlImage":""}
 
 
-,{"id":"-6000085","title":"Bein sport 1 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/cdn.live12.ir\/hls2\/bein1.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein1.png"}
+,{"id":"-6000085","title":"Bein sport 1 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/stream.live12.ir\/hls2\/bein1.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein1.png"}
 
-,{"id":"-6000084","title":"Bein sport 2 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/cdn.live12.ir\/hls2\/bein2.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein2.png"}
-,{"id":"-6000083","title":"Bein sport 3 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/cdn.live12.ir\/hls2\/bein3.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein3.png"}
+,{"id":"-6000084","title":"Bein sport 2 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/stream.live12.ir\/hls2\/bein2.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein2.png"}
+,{"id":"-6000083","title":"Bein sport 3 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/stream.live12.ir\/hls2\/bein3.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein3.png"}
 
 
-,{"id":"-6000082","title":"Bein sport 4 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/cdn.live12.ir\/hls2\/bein4.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein4.png"}
+,{"id":"-6000082","title":"Bein sport 4 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/stream.live12.ir\/hls2\/bein4.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein4.png"}
 
-,{"id":"-6000081","title":"Bein sport 5 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/cdn.live12.ir\/hls2\/bein5.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein5.png"}
+,{"id":"-6000081","title":"Bein sport 5 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/stream.live12.ir\/hls2\/bein5.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein5.png"}
 
-,{"id":"-6000080","title":"Bein sport 6 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/cdn.live12.ir\/hls2\/bein6.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein6.png"}
+,{"id":"-6000080","title":"Bein sport 6 ","filter":"sport","imgurl":"bein","channelurl":"https:\/\/stream.live12.ir\/hls2\/bein6.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":"https:\/\/ayas.ir\/icon\/bein6.png"}
 
   
 
