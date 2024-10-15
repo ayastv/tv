@@ -13,7 +13,7 @@
 
 ,{"id":"-6000085","title":"sport tv 1 ","filter":"sport","imgurl":"sport","channelurl":"http:\/\/cdn.footballii.ir:8080\/hls2\/stream02.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":""}
   
-,{"id":"-6000085","title":"sport tv 2 ","filter":"sport","imgurl":"bein","channelurl":"http:\/\/cdn.footballii.ir:8080\/hls2\/stream03.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":""}
+,{"id":"-6000085","title":"sport tv 2 ","filter":"sport","imgurl":"sport","channelurl":"http:\/\/cdn.footballii.ir:8080\/hls2\/stream03.m3u8","description":"","type":"m3u8","isOnline":"1","urlImage":""}
 
 
 ,{"id":"-6000068","title":"Aio Sport Multi ","filter":"sport","imgurl":"aio","channelurl":"https:\/\/live.aionet.ir\/hls\/aiosport\/aiosport.m3u8","description":"\u064eAio sport","type":"m3u8","isOnline":"1","urlImage":""}
@@ -84,3 +84,4 @@
 ,{"id":"-6000031","title":"EUROSPORT 2 HD UK","filter":"sport","imgurl":"sport","channelurl":"http:\/\/allm4f1x.russtv.net\/iptv\/XVGY7MPHN39K6P\/6556\/index.m3u8","description":"PREMIER SPORTS UK","type":"m3u8","isOnline":"1","urlImage":""}
 
 ]
+
